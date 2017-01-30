@@ -875,6 +875,7 @@ span.bn_prop_title {
   font-size: 20px;
   text-shadow: 1px 1px 0px #000;
   color: #fff;
+    font-size:4em;
 }
 
 span.bn_prop_value {
@@ -899,5 +900,6 @@ span.bn_prop_value {
 
 .silvia{
     background-color: red;
+    color: white;
 }
 /*# sourceMappingURL=banana.css.map */
